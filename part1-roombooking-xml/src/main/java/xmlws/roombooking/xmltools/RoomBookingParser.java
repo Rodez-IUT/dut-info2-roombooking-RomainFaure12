@@ -11,7 +11,6 @@ public interface RoomBookingParser {
      * Parse an xml file provided as an input stream
      *
      * @param inputStream the input stream corresponding to the xml file
-     * @return the corresponding RoomBooking object
      */
     public RoomBooking parse(InputStream inputStream);
 }

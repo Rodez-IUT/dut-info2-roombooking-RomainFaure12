@@ -17,7 +17,7 @@ public class RoomBookingSaxParserTest {
 
     @Before
     public void before() {
-        roomBookingParser = new RoomBookingSaxParser();
+        roomBookingParser = new RoomBookingDomParser();
     }
 
     @Test
