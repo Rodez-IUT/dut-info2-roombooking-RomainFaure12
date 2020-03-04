@@ -11,7 +11,7 @@ Dans cet exercice, vous devez impérativement utiliser l'API SAX fournie par JAX
 
 > fix #1.1 Parser SAX
 
-#### Ex. 2 - Parser DOM
+#### Ex. 2 - Parser DOM 
 
 Dans cet exercice, vous devez impérativement utiliser l'API DOM fournie par JAXP pour le traitement du contenu XML.
 
